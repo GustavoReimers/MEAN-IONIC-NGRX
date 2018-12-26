@@ -152,4 +152,4 @@ Feel free to contrib to my stack.
 
 
 ## About author
-Hi, i'm a Front-end developper living in Geneva Switzerland and i build hybrid mobile & web applications for almost 15 years. You can follow me on Twitter @FazioNico or checkout my own website https://nicolasfazio.ch
+Hi, i'm a Front-end developper and i build hybrid mobile & web applications for almost 15 years. You can check out my portfolio website: [https://stanislav.herokuapp.com]
